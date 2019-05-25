@@ -13,11 +13,9 @@
 ### Example use  -- this runs in training mode with existing checkpoints then visualize the predicted signal
  - python3 estimate.py -t 1 
 
-## For convenience, we also provide an implementation in Jupter notebook (Sample_main.ipyb) you can specify the options for the notebook from within manually
+#### For convenience, we also provide an implementation in Jupter notebook (Sample_main.ipyb) you can specify the options for the notebook from within manually
 
-## Validating using RES9EE should give an accuracy of 97.94% for the log and if trained with option 1, accuracy can top 99.98%.
-
-## This attached code is tested on TF1.12 and compabatible with linux and windows machines. Also, make sure to include/install all TF dependencies as per used in the code.
+#### Validating using RES9EE should give an accuracy of 97.94% for the log and if trained with option 1, accuracy can top 99.98%. This attached code is tested on TF1.12 and compabatible with linux and windows machines. Also, make sure to include/install all TF dependencies as per used in the code.
 
 
 # Muhammad K.A.Hamdan
